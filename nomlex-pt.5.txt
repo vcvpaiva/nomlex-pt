@@ -1338,7 +1338,6 @@
 ; ventilar:2, ventilação:2
 ; verificar:2, verificação:4
 ; vindicar:0, vindicância:0
-(synset ? "vindicar")
 (synset ? "vindicância")
 ; violar:2, violação:3
 ; visitar:3, visita:3
