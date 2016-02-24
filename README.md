@@ -1,5 +1,5 @@
 
-# NOMLEX-BR
+# NOMLEX-PT
 
 NOMLEX (NOMinalization Lexicon) is a dictionary of English
 nominalizations developed by the Proteus Project at New York
