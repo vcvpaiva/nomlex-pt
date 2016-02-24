@@ -1345,7 +1345,6 @@
 ; visitar:3, visitante:3
 ; ver:19, vista:2
 ; vistoriar:3, vistoria:0
-(synset ? "vistoria")
 ; ver:19, visão:4
 ; voltar:2, volta:3
 ; voar:6, voo:1
