@@ -7,10 +7,7 @@ University. This project aims to create a similar resource
 for Portuguese.
 
 The last version with 3,527 nominalizations is available in the
-**nomlex-pt.rdf** file and as csv. More statistics might be eventually available at:
-
-- http://logics.emap.fgv.br:10035/repositories/nomlex-br#query/r/total
-- http://logics.emap.fgv.br:10035/repositories/nomlex-br#query/r/provenance
+**nomlex-pt.rdf** file and as csv file . 
 
 See also http://github.com/arademaker/openWordnet-PT. The words are
 instances of the wn30:Word class from the openWordnet-PT.
@@ -33,6 +30,8 @@ instances of the wn30:Word class from the openWordnet-PT.
 -  Extending a Lexicon of Portuguese Nominalizations with Data from Corpora, Freitas, de Paiva, Rademaker, de Melo,and Silva, PROPOR 2014 http://arademaker.github.io/files/propor-2014.pdf
 -  Extending NomLex-PT using AnCora-Nom, Real, Rademaker and de Paiva, ToRPorEsp 2014 http://arademaker.github.io/files/ToRPorEsp-2014-Ancora.pdf
 -  Embedding NomLex-BR nominalizations into OpenWordnet-PT, Coelho, Rademaker, de Paiva and de Melo, GWN 2014, http://arademaker.github.io/files/gwc-2014-nomlex.pdf
+  
+Background Work:
 -  OpenWordNet-PT: An Open Brazilian Wordnet for Reasoning, de Paiva, Rademaker, and de Melo, COLING 2012 Demo papers, http://www.aclweb.org/anthology/C12-3044
 -  English NomLex project, http://nlp.cs.nyu.edu/nomlex/
 
