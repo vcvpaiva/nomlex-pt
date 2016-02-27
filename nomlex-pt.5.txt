@@ -1306,7 +1306,6 @@
 ; testemunhar:1, testemunho:5
 ; tolerar:2, tolerância:5
 ; totalizar:0, total:6
-(synset ? "totalizar")
 ; trabalhar:7, trabalhador:6
 ; trabalhar:7, trabalhador:6
 ; trabalhar:7, trabalho:12
