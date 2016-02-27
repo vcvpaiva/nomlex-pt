@@ -1186,17 +1186,13 @@
 ; reservar:2, reservatório:1
 ; resignar:3, resignação:1
 ; atrapalhar:2, atrapalhação:0
-(synset ? "atrapalhação")
 ; resistir:10, resistência:2
 ; resolver:6, resolução:7
 ; respeitar:0, respeito:3
-(synset ? "respeitar")
 ; respirar:3, respiração:6
 ; responder:7, resposta:6
 ; contestar:0, contestação:1
-(synset ? "contestar")
 ; ressentir:0, ressentimento:3
-(synset ? "ressentir")
 ; ressonar:1, ressonância:1
 ; restar:1, restante:1
 ; restituir:1, restituição:3
@@ -1204,12 +1200,8 @@
 ; restringir:9, restrição:7
 ; retomar:1, retomada:1
 ; retalhar:0, retalhista:1
-(synset ? "retalhar")
 ; retaliar:0, retaliação:0
-(synset ? "retaliar")
-(synset ? "retaliação")
 ; retardar:1, retardação:0
-(synset ? "retardação")
 ; reter:9, retenção:1
 ; retirar:2, retirada:3
 ; retornar:2, retorno:5
@@ -1219,7 +1211,6 @@
 ; retratar:1, retrato:4
 ; retribuir:1, retribuição:4
 ; reunificar:0, reunificação:1
-(synset ? "reunificar")
 ; reunir:14, reunião:12
 ; revelar:6, revelação:4
 ; reverter:2, reversão:2
@@ -1235,7 +1226,6 @@
 ; romper:2, rompimento:3
 ; rodar:2, rotação:2
 ; roubar:10, roubalheira:0
-(synset ? "roubalheira")
 ; sacar:17, saque:4
 ; satisfazer:6, satisfação:4
 ; saturar:1, saturação:2
