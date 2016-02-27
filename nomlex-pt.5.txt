@@ -1323,7 +1323,6 @@
 ; transmitir:14, transmissão:3
 ; transportar:7, transporte:2
 ; trapacear:2, trapaça:0
-(synset ? "trapaça")
 ; tratar:4, tratamento:4
 ; unificar:3, unificação:2
 ; urbanizar:1, urbanização:2
