@@ -1217,8 +1217,6 @@
 ; revisar:1, revisão:3
 ; revolver:2, revolução:2
 ; conflagrar:0, conflagração:0
-(synset ? "conflagrar")
-(synset ? "conflagração")
 ; cavalgar:2, cavalgador:0
 (synset ? "cavalgador")
 ; rolar:2, rolete:0
@@ -1251,7 +1249,6 @@
 ; solicitar:2, solicitação:2
 ; resolver:6, solução:5
 ; subproduzir:0, subprodução:0
-(synset ? "subprodução")
 ; prolongar:2, prolongamento:1
 ; subdividir:0, subdivisão:1
 ; submeter:2, submissão:1
@@ -1289,7 +1286,6 @@
 ; trair:2, traição:6
 ; transar:2, transação:2
 ; efetuar:5, efetuação:0
-(synset ? "efetuação")
 ; transferir:3, transferência:4
 ; transformar:7, transformação:4
 ; transfuse:4, transfusão:1
