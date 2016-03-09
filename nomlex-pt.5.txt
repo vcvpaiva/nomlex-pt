@@ -1178,8 +1178,7 @@
 ; representar:15, representação:3
 ; reprimir:2, repressão:3
 ; reproduzir:3, reprodução:5
-; reprovar:4, reprovamento:0
-(synset ? "reprovamento")
+; reprovar:4, reprovação:0
 ; repudiar:1, repúdio:1
 ; repel:5, repulsão:1
 ; reservar:2, reserva:4
@@ -1218,9 +1217,6 @@
 ; revolver:2, revolução:2
 ; conflagrar:0, conflagração:0
 ; cavalgar:2, cavalgador:0
-(synset ? "cavalgador")
-; rolar:2, rolete:0
-(synset ? "rolete")
 ; romper:2, rompimento:3
 ; rodar:2, rotação:2
 ; roubar:10, roubalheira:0
