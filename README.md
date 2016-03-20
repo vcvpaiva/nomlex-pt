@@ -6,8 +6,8 @@ nominalizations developed by the Proteus Project at New York
 University. This project aims to create a similar resource
 for Portuguese.
 
-The last version with 3,527 nominalizations is available in the
-**nomlex-pt.rdf** file and as csv file . 
+The  version of NomLex-PT from  March, 18th, 2016 has 3,527 nominalizations and is available in the
+**nomlex-pt.rdf** file and as a csv file . 
 
 See also http://github.com/arademaker/openWordnet-PT. The words are
 instances of the wn30:Word class from the openWordnet-PT.
@@ -21,6 +21,7 @@ instances of the wn30:Word class from the openWordnet-PT.
 - [Alexandre Rademaker](http://arademaker.github.io)
 - [Claudia Freitas](http://www.letras.puc-rio.br/pag_profs/professores_mariaclaudiafreitas.php)
 - [Gerard de Melo](http://demelo.org)
+- [Fabricio Chalub](https://github.com/fcbr)
 
 
 
@@ -39,5 +40,5 @@ Background Work:
 
 ## License
 
-<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">NomLex-PT</span> by  the team   is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/arademaker/nomlex-pt" 
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">NomLex-PT</span> by  the team   is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />
 
