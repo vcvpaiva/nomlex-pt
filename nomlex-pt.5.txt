@@ -1157,16 +1157,11 @@
 (synset ? "remodelação")
 ; remover:3, remoção:1
 ; renascer:0, renascimento:1
-(synset ? "renascer")
 ; abalroar:0, abalroação:0
-(synset ? "abalroar")
-(synset ? "abalroação")
 ; renovar:4, renovação:3
 ; renunciar:7, renúncia:9
 ; reorganizar:2, reorganização:1
 ; repagar:0, repagamento:0
-(synset ? "repagar")
-(synset ? "repagamento")
 ; reparar:2, reparação:1
 ; repitir:1, repetição:6
 ; reportar:2, reporte:0
@@ -1205,7 +1200,6 @@
 ; retornar:2, retorno:5
 ; repreender:6, repreensão:3
 ; retratar:1, retratação:0
-(synset ? "retratação")
 ; retratar:1, retrato:4
 ; retribuir:1, retribuição:4
 ; reunificar:0, reunificação:1
