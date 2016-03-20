@@ -1153,8 +1153,6 @@
 (synset ? "relocar")
 (synset ? "relocação")
 ; remodelar:0, remodelação:0
-(synset ? "remodelar")
-(synset ? "remodelação")
 ; remover:3, remoção:1
 ; renascer:0, renascimento:1
 ; abalroar:0, abalroação:0
@@ -1167,7 +1165,6 @@
 ; reportar:2, reporte:0
 ; reportar:2, repórter:1
 ; reposicionar:1, reposicionamento:0
-(synset ? "reposicionamento")
 ; representar:15, representante:7
 ; representar:15, representação:3
 ; reprimir:2, repressão:3
