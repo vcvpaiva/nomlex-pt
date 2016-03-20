@@ -15,8 +15,6 @@
 ; creditar:1, acreditação:1
 ; acrescentar:7, acréscimo:2
 ; acumular:5, acumulação:4
-; acusar:3, acusamento:0
-(synset ? "acusamento")
 ; acusar:3, acusação:3
 ; acusar:3, acusação:3
 ; adaptar:3, adaptação:2
