@@ -4,11 +4,8 @@
 ; abordar:1, abordagem:1
 ; absolver:2, absolvição:2
 ; absorver:1, absorção:1
-; abstenir:0, abstenção:1
-(synset ? "abstenir")
 ; abster:2, abstenção:1
 ; abstrair:0, abstração:1
-(synset ? "abstrair")
 ; acabar:11, acabamento:1
 ; acampar:1, acampamento:7
 ; aceitar:5, aceitação:5
