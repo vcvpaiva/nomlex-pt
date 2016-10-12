@@ -1,0 +1,2292 @@
+% 9 bad capitalized verbs removed here
+ab-rogar
+abaixar
+abalar
+abarrotar
+abdicar
+abicar
+abjurar
+abnegar
+abordar
+abotoar
+abrandar
+abrigar
+abrir a boca
+abrir fogo
+abrir mão de
+abrochar
+abstrair
+abundar
+abundar em
+acabrunhar
+acaecer
+acalmar-se
+acamar
+acampar
+acarretar
+acasalar
+acastanhar
+acautelar
+aceder
+aceitar de volta
+acerar
+acercar
+acercar-se
+aceso
+acessar
+achar-se
+acidar
+acinzentar
+acionar
+aclimar
+aclimatar
+acocorar
+acocorar-se
+acolchetar
+acolher
+acometer
+aconchegar
+aconchegar-se
+aconselhar
+acontecer inesperadamente
+acorrentar
+acortinar
+acossar
+acostumar
+acostumar-se
+acovardar-se
+acreditar em
+activar
+adequar
+adiantar
+adiantar-se
+adicionar algo
+adjudicar
+administrar casa
+admirar-se
+admitir a veracidade de
+adoecer
+adoentar
+adormecer
+adotar como própria
+adsorver
+adubar
+adulterar
+advocar
+advogar
+afastar-se
+afectar
+afeminar
+aferir
+aferrar
+aferroar
+aferrolhar
+afiançar
+afiliar
+afiliar-se
+afivelar
+afligir-se
+aflija-se
+afluir
+afofar
+afrontar
+afugentar
+agarrar com firmeza
+agavelar
+agenciar
+agigantar
+agilizar
+agir_involuntariamente
+agir_reflexivamente
+agoniar
+agonizar
+agourar
+agradar-se
+agrafar
+agravar
+agregar
+agrilhoar
+agrupar
+agrupar-se
+aguar
+aguardar ansiosamente
+aguçar
+agüentar
+ajoelhar
+ajoelhar-se
+alagar
+alardear
+alargar
+alarmar
+alastrar
+albergar
+alcatroar
+aleijar
+alfinetar
+alhear
+aliar
+aliciar
+alienação
+alimentar um bebê com o leite produzido pelas próprias glândulas mamárias
+alimentar-se
+alistar
+alistar-se
+almoçar
+alocar
+alojar
+altear
+alterar para
+altercar
+alternar
+alucinar
+alvejar
+alvorecer
+amaciar
+amamentar
+amanhar
+amanhecer
+amanteigar
+amarelar
+amarfanhar
+amargurar
+amarrotar
+amendrontar
+amimar
+amolar
+amoldar-se
+amortizar
+amotinar
+amotinar-se
+amparar
+amputar
+analizar sintaticamente
+anastomosar
+anatematizar
+ancorar
+andar a galope
+andar a trote
+andar em camera lenta
+andar em fila
+andar enfileirado
+andar na ponta dos pés
+andar à caça de
+andar à volta
+anestesiar
+angariar
+animar-se
+anistiar
+antagonizar
+anteceder
+antedatar
+antropomorfizar
+anuviar
+apadrinhar
+apaixonar
+aparacer como se fosse fantasma
+aparelhar
+apartar
+apartar-se
+apavorar-se
+apear
+apear-se
+apedrejar
+apelidar
+aperceber
+aperceber-se
+aperrear
+apertar as mãos
+apiedar
+apiedar-se
+apimentar
+apinhar
+aplacar
+aplainar
+apoiar-se
+aportar
+aposentar
+aposentar-se
+apostatar
+aprazer
+aprender de novo
+apresenta
+apresentar melhor que
+apressar-se
+aprestar
+aprimorar
+aprofundar
+aprontar
+apropriar-se
+aproximar
+aproximar-se
+aproximar-se de
+aquartelar
+aquiescer
+arear
+arfar
+argentar
+arguir
+argumentar
+argumentar a favor
+arquear
+arrancar
+arrebatar
+arrebentar
+arrefecer
+arrematar
+arrendondar
+arrepender
+arrepender-se
+arrepiar
+arrojar
+arrojar-se
+arrolhar
+arrombar
+arrostar
+arrotar
+arrumar-se
+articular
+articular-se
+ascender
+asfaltar
+aspergir
+aspirar
+assalariar
+assaltar
+assear
+assegurar-se
+assemelhar-se a
+assemelhe-se
+assentar-se
+assertar
+assistir a
+assolar
+assomar
+assoprar
+assorear
+atacar de frente
+atarraxar
+ataviar
+atazanar
+atentar
+aterrizar
+atirar na cabeça
+atirar-se
+ativar
+atordoar
+atracar
+atraiçoar
+atrapar
+atrativo
+atravessar a vau
+atrelar
+atrever
+atrever-se
+atribular
+atrofiar
+atrofiar-se
+atropelar
+atualizar
+auferir
+augurar
+auscultar
+ausentar
+ausentar-se
+autenticar
+automatizar
+avaliar novamente
+avaçar
+avelhentar
+aventar
+aventurar-se
+aviar
+avionar
+avistar
+avivar
+avolumar
+axalar
+azarar
+azedar-se
+azeitar
+azulejar
+açambarcar
+badalar
+bailar
+bainhar
+baixa-mar
+baixar-se
+bajular
+balançar-se
+balar
+balcanizar
+balir
+banhar
+banhar-se
+baptizar
+baralhar
+baratear
+barbear-se
+barricar
+barricar-se
+basear
+basificar
+bastar
+batalhar por algo
+batalhar uns contra os outros
+bater a nata
+bater as botas
+bater com os nós dos dedos
+bater de asas
+bater de leve
+bater repetidamente
+bater_as_botas
+bater_papo
+bater_queixo
+batucar
+beatificar
+beber vinho
+bebericar
+beijar ruidosamente
+beijar-se
+beijocar
+beliscar
+benzer
+bestificar
+bicar reciprocamente
+bifurcar
+biodegradar
+birra
+bisbilhotar
+blindar
+blogar
+bochechar
+boiar
+boicotar
+bolear
+bolhadear
+bombardear
+borboletear
+borbotar
+borrar
+bosquejar
+boxar
+boxear
+branquear
+brilhar intensamente
+brilhar mais forte do que
+brincar
+brincar com
+brindar
+britar
+bronha
+bulir
+burlar
+cabecear
+caber
+caber a
+cacarejar
+cagar
+cair do alto
+cair em cascata
+cair no sono aos poucos
+cair_aos_pedaços
+calafetar
+calar
+calar a boca
+calar-se
+calcar
+calcificar
+calcinar
+caldear
+caluniar
+calçadeira
+cambalear
+cambiar
+camuflar
+candidatar
+cangar
+canonizar
+cansar
+cansar-se
+cantar à tirolesa
+capengar
+capitulação
+caracter alfabético
+caracter espaço
+caraterizar
+carboxilar
+carburar
+carga
+caricaturar
+carimbar
+carpir
+casar-se
+casarem-se
+casquinar
+cassar
+castrar
+catabolizar
+categorizar
+catequizar
+cativar
+causar atrofia
+causar dor
+causar impressão
+causar náuseas a
+causar perturbação
+cauterizar
+cecear
+centralizar
+centrifugar
+cerrar
+certificar
+certificar-se
+cerzir
+cevar
+chafurdar
+chamejar
+chapar
+chapinar
+chapinhar
+charlatanear
+chatear
+chatinar
+chegar a
+chegar a terra
+chegar a um meio-termo
+chiar
+chicanear
+chilrear
+chocalhar
+chocar-se
+chorar
+chover a cântaros
+chover a potes
+chover canivetes
+chover em quantidade
+chover forte
+chover fortemente
+chuviscar
+cimentar
+cinco-contra-um
+cinzelar
+circuncidar
+circundar
+cisalhar
+citar novamente
+clamar
+clarificar
+clausurar
+clicar
+clonar
+coabitar
+coagular
+coalescer
+coassinar
+cobrir com abundáncia
+cobrir com alcatrão
+cobrir com asfalto
+cobrir com estanho
+cobrir com véu
+cocegar
+cochichar
+coibir
+coisificar
+colaborar
+colapsar
+colecionar
+colhar
+colher cogumelos
+coligir
+colocar em forma
+colocar em ordem alfabética
+colocar hífen
+colocar legendas
+colocar na lista negra
+colocar no diário
+colocar no registro
+colocar um título
+com
+combater
+comer_capim_pela_raiz
+cometer
+começar a queimar
+começar nova linha com a línea
+comissionar
+compadecer-se
+compaginar
+comparecer
+compenetrar
+compenetrar-se
+complementar
+comportar
+comprar rapidamente
+comprazer
+compreender mal
+comprimir
+comprovar
+comutar
+concentrar
+concentrar-se
+concernir
+concertar
+concorrer
+confederar
+confiar algo a alguém
+configurar
+confiscar
+conformar
+conformar-se
+conforme-se
+confortar
+confraternizar
+conglomerar
+conjeturar
+conjurar
+conotar
+consignar
+consistir
+consolar
+consolidar-se
+constar
+constatar
+consternar
+constipar
+constitucionalizar
+constituir
+constranger
+constrangir
+contactar
+contagiar
+contagiar-se
+contatar
+conter-se
+contorcer
+contorcer-se
+contra-assinar
+contra-atacar
+contrabalançar
+contrabandear
+contrafazer
+contraindicar
+contrapor
+contrapor-se
+contrariar
+contundir
+convalescer
+convencionar
+convergir
+conversar por sinais
+convir
+conviver
+cooperar
+copatrocinar
+coreografar
+coriscar
+correlacionar
+correr terras
+corresponder
+corresponder-se
+corroborar
+corvejar
+coser
+costumar
+costurar
+coxear
+cozer
+cozinhar demais
+coçar
+credenciar
+creditar
+cremar
+crescer até cobrir
+crescer exageradamente
+criar caso
+criar um rascunho
+criar uma falha ou defeito
+cricrilar
+criminalizar
+criminar
+cromar
+cronometrar
+cubar
+cuidar de criança
+cuidar-se
+cultuar
+cumprimentar-se
+curtir
+curvar-se ao peso de
+curvetear
+custear
+custodiar
+cutucar
+dar a luz
+dar adeus
+dar atenção
+dar atenção a
+dar ação
+dar coceira
+dar comida
+dar de aluguel
+dar de mamar
+dar de presente
+dar dica
+dar garantias
+dar gosto a
+dar no alvo
+dar o fora
+dar ordem
+dar outra forma
+dar pontapé
+dar por empréstimo
+dar recibo
+dar segurança
+dar um beijo
+dar uma cabeçada
+dar valor
+dar xeque-mate
+dar à luz
+dar-se ao trabalho de
+dar_um_tapa
+dar_à_luz
+de forma marcial
+deambular
+debitar
+debochar
+debulhar
+debutar
+decantar
+decapitar
+dececionar
+decepar
+decepcionar
+declamar
+decorrer
+dedetizar
+defazer
+defecar
+defender-se
+defenestrar
+deferir
+definhar
+definir
+deflagrar
+deflorar
+degenerar
+deglutir
+degredar
+degustar
+deitar-se
+deitar-se na cama
+deixar cair
+deixar de
+deixar de lado
+dejectar
+dejetar
+delatar
+delegar
+deleitar
+deliciar
+delirar
+demandar
+demarcar
+demolhar
+demorar
+demorar-se
+demostrar
+denegar
+depenar
+dependurar
+depilar
+depor
+depositar
+depredar
+depreender
+deprivar
+depurar
+deputar
+derramar_lágrimas
+derribar
+desabafar
+desabilitar
+desabotoar
+desactivar
+desafinar
+desalentar
+desanexar
+desaparafusar
+desapontar
+desarranjar
+desarticular
+desassociar
+desativar
+desbloquear
+desbocar
+desbordar
+descamar
+descamar-se
+descansar
+descender
+descentralizar
+descodificar
+descolar
+descolonizar
+descolorir
+descompactar
+desconcentrar
+desconectar
+desconfiar
+descongelar
+desconhecer
+descontaminar
+descontinuar
+descontrair
+descrer
+descuidar
+descumprir
+descurar
+desdizer
+desdobrar
+desdobrar-se
+desemaranhar
+desembaraçar
+desembaraçar-se
+desembarcar-se
+desembrulhar
+desempenhar
+desencantar
+desencorajar-se
+desenganar
+desenganar-se
+desengatar
+desenovelar
+desenrascar
+desenrolar
+desentranhar
+desentusiasmar
+deserdar
+desesperar
+desesperar-se
+desfalecer
+desfibrilar
+desflorar
+desfocar
+desforrar
+desfraldar
+desgalhar
+desgraçar
+desidratar
+desiludir-se
+desimpedir
+desinfectar
+desinflar
+desinsetizar
+desintegrar
+desintoxicar
+desjejuar
+desleixar
+deslocar-se
+deslumbrar
+desmaiar
+desmamar
+desmarcar
+desmaterializar
+desmembrar
+desmineralizar
+desmobilizar
+desmontar
+desnitrificar
+desnudar-se
+desobedecer
+desobstruir
+desocupar
+desonrar
+desorientar
+desossar
+desovar
+desoxidar
+desoxigenar
+despachar-se
+despedaçar
+despedir-se
+despencar
+despentear
+despidir
+despir-se
+desplumar
+despojar
+despolarizar
+despovoar
+despregar
+desprender
+despressurizar
+desprover
+desregular
+dessalinizar
+dessensibilizar
+destacar-se
+desterrar
+destinar
+destituir
+destrancar
+destratar
+destripar
+desumanizar
+desunir
+desvanecer
+desvaneça-se
+desvendar
+desviar a atenção
+desvicerar
+desvincular
+desvio
+desvirginar
+desvitalizar
+detalhar
+detectar
+deter-se
+deturpar
+devanear
+dicotomizar
+difamar
+dificultar
+difundir idéias
+dignificar
+digressar
+dilapidar
+dilatar
+dilatar-se
+dinamitar
+dinamizar
+diplomar
+diplomar-se
+direccionar
+direcionar luz
+dirigir-se
+disciplinar
+disconcertar
+discontentar
+dispensar
+dispor de
+dispõe
+dissecar
+dissentir
+dissipar
+distanciar
+distilar
+distinguir-se
+distrair
+distrair-se
+divagar
+divergir
+diversificar
+divertir-se
+dividir ao meio
+dividir em segmentos
+dividir-se
+divisar
+divorciar
+dizer adeus
+dizer coisas xulas
+dizer respeito a
+dizer sim
+domar
+domiciliar
+dormir com
+dragar
+dramatizar
+drapejar
+dublar
+duchar
+duelar
+duplicar
+dyskwalifikować
+ebulir
+eclipsar
+eco
+ecoar
+edificar
+editar
+efetivar
+electrificar
+electrizar
+eletrificar
+elevar ao cubo
+elevar-se
+elicitar
+elidir
+elucidar
+em_atividade
+embalsamar
+embaraçar
+embarcar-se
+embasbacar
+embasbacar-se
+embevecer
+embolsar
+embotar
+embraigar
+embranquecer
+embriagar
+embromar
+embutir
+emergir
+emita-se
+emitir vapor
+emoldurar
+empalidecer
+empatar
+empavonar
+empavonar-se
+empenhar
+empenhar-se em
+empestear
+empeçonhar
+empoar
+empolgar
+emprestar
+emular
+enamorar
+enamorar-se
+encadear
+encadernar
+encaixar
+encaixotar
+encaminhar
+encanecer
+encapsular
+encarcerar
+encaçapar
+encher desordenadamente
+enclausurar
+encorajar-se
+encorpar
+encortinar
+encrespar
+encriptar
+endossar
+enervar
+enervar-se
+enfadar
+enfaixar
+enfardar
+enferrujar
+enfiar
+enfrentar
+enfronhar
+enfurecer-se
+engajar-se
+engasgar
+engastar
+engatinhar
+engendrar
+englobar
+engomar
+engravidar
+engrenar
+engrossar
+enguiçar
+engulir
+enjoar
+enlatar
+enlaçar
+enlouquecer
+enobrecer
+enquadrar
+enraizar
+enredar
+enrijar
+enrijecer
+enrolar
+enroscar
+enroscar-se
+enrubescer
+ensaboar
+ensopar
+entediar
+entelhar
+entender mal
+entontecer
+entorpecer
+entranhar
+entrar
+entrar em conflito
+entrar em contato
+entrar em detalhes
+entrar_em_erupção
+entrelaçar-se
+entrever
+entrincheirar-se
+entupir
+envenenar algo
+envernizar
+enviuvar
+envolver em uma cápsula
+enxamear
+enxergar
+enxertar
+enxotar
+equacionar
+equalizar
+equilibrar
+equilibrar-se
+equivaler
+equivocar
+erguer-se
+erigir
+eriçar
+erodir
+erotizar
+errar o golpe
+esbarrar
+esbofetear
+esbordoar
+esboçar
+esbulhar
+escalar
+escaldar
+escalfar
+escalpelar
+escamotear
+escancarar
+escancarar-se
+escandalizar
+escanear
+escapulir
+escarear
+escarnecer
+escolher ao acaso
+escoltar
+escorrer
+escravizar
+escrever novamente
+escrever um roteiro para
+escrever à máquina
+escrutinar
+escrúpulo
+esfarelar-se
+esfolar
+esfomear
+esforçar-se
+esfriar-se
+esgravatar
+esgrimir
+esguichar
+esmaecer
+esmaltar
+esmerilar
+esmigalhar
+esmiuçar
+esmurrar
+esnobar
+espalhar rumores
+espancar
+espantar
+espaçar
+especializar
+especular
+espelhar
+espernear
+espionar
+espiritualizar
+espirrar
+esporar
+esporear
+espreguiçar-se
+espumar
+espumejar
+esqueça-se
+esquiar
+esquivar
+estabilizar
+estabilizar-se
+estafar
+estagnar
+estalar
+estampar
+estancar
+estar agachado
+estar ancorado no ancoradouro
+estar com coceira
+estar com o cio
+estar conectado
+estar conforme a
+estar de cócoras
+estar de luto
+estar de pé
+estar de sentinela
+estar em conformidade com
+estar em contato com
+estar em dúvida
+estar em harmonia
+estar em uma emboscada
+estar esfomeado
+estar faminto
+estar formulado ou redigido com certas palavras
+estar inclinado a
+estar pendente
+estar presente
+estar presente em
+estar sentado
+estar situado
+estar_bem
+estarrecer
+estatizar
+estercar
+estereotipar
+esterçar
+esticar-se
+estigmatizar
+estilhaçar
+estipular
+estirar
+estivar
+estofar
+estorrar
+estorricar
+estranhar
+estraçalhar
+estrear
+estrebuchar
+estrelar
+estressar
+estruturar
+estufar
+estultificar
+estupefazer
+estuprar
+esvair
+esvoaçar
+eternizar
+evaziar
+evocar
+evoluir
+exalar cheiro
+exaurir
+exaurir-se
+exceder em números
+exceptuar
+exclamar
+excretar
+excusar
+execrar
+exilar
+exonerar
+exonerar-se
+exorcizar
+exortar
+expandir-se
+expatriar
+expectorar
+experienciar
+expirar
+explicitar
+expor
+expor ao sol
+expor empurrando
+exportar
+exprimir
+expropriar
+expurgar
+exsudar
+exteriorizar
+externalizar
+extraditar
+extravasar
+extraviar
+exultar
+exumar
+facturar
+faiscar
+falar alto
+falar em línguas
+falar gírias
+falir
+falsear
+faltar
+familiarizar
+fanfarrear
+fantasiar
+farejar
+farfalhar
+fartar
+fatiar
+fatorar
+faturar
+favorecer
+fazer a bainha
+fazer adubo
+fazer alusã oa
+fazer alusão a
+fazer amor
+fazer bagunça
+fazer barricadas
+fazer barulho ou algazarra
+fazer besteira
+fazer bico
+fazer blague
+fazer campanha
+fazer cara feia
+fazer caricaturas
+fazer charlatanismo
+fazer churrasco
+fazer com astúcia
+fazer comentários
+fazer companhia
+fazer cócegas
+fazer demais
+fazer digestão
+fazer doação de
+fazer entrar em vigor
+fazer frente
+fazer frente a
+fazer girar
+fazer jorrar
+fazer meias
+fazer mira
+fazer notas ou comentários
+fazer o login
+fazer o seu melhor
+fazer orçamento
+fazer parte
+fazer passar
+fazer pouco
+fazer prova de
+fazer questão de
+fazer referência
+fazer rendas
+fazer retinir
+fazer ruído de sucção
+fazer saltar
+fazer sentido
+fazer sermão
+fazer sexo
+fazer substituir
+fazer travessuras
+fazer truste
+fazer um internato
+fazer um piquenique
+fazer uma fissura
+fazer valer
+fazer veste para homem
+fazer votos
+fazer xixi
+fazer às pressas
+fazer-se de morto
+fazer-se ouvir
+fazer_cócegas
+fazer_papel
+fazerparar
+felicitar
+fermentar
+festejar
+fibrilar
+ficar de cócoras
+ficar encantado com
+ficar para trás
+ficar parado
+ficar_menor
+figurar
+filiar
+filiar-se
+filosofar
+filtrar
+fincar
+fingir-se de morto
+fiscalizar
+fissurar
+fixar a atenção em
+fixar o olhar
+flabelar
+flamejar
+florir
+foder
+foder tudo
+foiçar
+folear
+fomentar
+forjar
+formalizar
+formar bolhas
+formar em parada
+formatar
+fornear
+fornicar
+fotocopiar
+fotografar
+fracassar
+fragmentar
+franzir
+franzir o cenho
+fraudar
+fremir
+frequentar
+freqüentar
+friccionar
+frisar
+fritar
+fruir
+fulgir
+fulgurar
+fulminar
+fumar
+fundamentar
+fundar
+fundir-se
+fungar
+fuxicar
+fuzilar
+gabar
+gabar-se
+gadanhar
+galvanizar
+ganhar dinheiro com seu trabalho
+ganhar terreno
+ganhar_peso
+ganir
+gargalhar
+gargarejar
+garotar
+gaseificar
+gastar excessivamente
+gear
+gemir
+genocídio
+gerenciar
+gesticular
+gomar
+googlar
+gorar
+gostar muito
+gotejar
+gradar
+graduar
+granizar
+granular
+gratificar
+gratinar
+gravar em fita de vídeo
+grunhir
+guarnecer
+guarnecer de armação
+guglar
+guilhotinar
+guinchar
+habilitar
+habituar
+habituar-se
+haver
+herança
+hesitar
+hibridizar
+hipertrofiar
+hipnotizar
+hipotecar
+homenagear
+homogenizar
+homologar
+horripilar
+hospitalizar
+hostilizar
+humanizar
+humilhar
+humilhar-se
+ignitar
+ilhar
+iludir
+iluminar-se
+imaginar
+imbuir
+imobilizar
+imolar
+impermeabilizar
+impetrar
+implodir
+implorar
+impor
+impor-se
+impossibilitar
+impregnar
+impugnar
+imputar
+imunizar
+inabilitar
+inalar
+incapacitar
+inchar-se
+incidir
+incisar
+incomodar-se
+incorporada
+incorporar a
+incorporar-se
+incubar
+inculcar
+inculpar
+incumbir
+incutir
+indeferir
+indemnizar
+indentificar-se
+indexar
+indispor
+indispor-se
+individualizar
+indoutrinar
+induzir ao erro
+induzir em tentação
+inferiorizar
+infetar
+infiltrar
+inflamar
+inflar-se
+influenciar
+influir
+informar-se
+infringir
+infrinjir
+infundir
+ingressar
+ingurgitar
+inimizar
+injectar
+injustiçar
+inocentar
+inocular
+inovar
+inquietar
+inrijecer
+inscrever-se
+inseminar
+inserir-se
+insinuar
+inspeccionar
+instar
+institucionalizar
+instituir
+insular
+insurgir
+insurgir-se
+integrar-se
+intencionar
+interagir
+intercalar
+interceder
+intercetar
+interditar
+interferir
+interligar
+intermediar
+internacionalizar
+intersectar
+intervir
+intrometer
+intumescer
+inutilizar
+inventar de novo
+invernar
+ir a
+ir contra
+ir ver
+ir à caça
+ir-se embora
+irmanar
+irmanar-se
+irradiar-se
+irrigar
+irritar-se
+irromper
+isentar
+içar
+jardinar
+jejuar
+joeirar
+jogar dados
+jogar fora
+jogar golfe
+jogar os dados
+jogar trunfo
+jogar água benta
+jogar-se
+jorrar de uma fonte
+jubilar
+jungir
+juntar-se
+justapor
+justiçar
+lacrimejar
+ladear
+ladrilhar
+lamentar-se
+lançado
+largar
+largar mão
+latir
+lavar a louça
+lavar-se
+legalizar
+legar
+legendar
+legislar
+legitimar
+leiloar
+lembrar-se
+ler em diagonal
+ler fazendo correções
+ler superficialmente
+levar de rastos
+levar em conta
+levar emprestado
+lexicalizar
+libar
+liberalizar
+licenciar
+liderar a torcida
+limpar o pó
+linchar
+listar
+litigar
+lixar
+lograr
+lotear
+ludibriar
+luxar
+macaquear
+macerar
+madurar
+maldizer
+malograr
+mamar
+mancar
+manifestar-se
+manobrar
+manter contato com
+manufaturar
+mapear
+maquiar
+maquilar
+maquinar
+maravilhar-se
+marcar_ponto
+marginar
+mascar
+massagear
+mastigar
+masturbar-se
+matar a sede
+materializar
+matizar
+matricular
+mediar
+medicar
+medir
+melhorar algo antigo ou ultrapassado
+memorizar
+mendigar
+menstruar
+mercadejar
+merecer
+mesclar
+mesmerizar
+metabolizar
+meter o nariz em assunto alheio
+meter o rabo entre as pernas
+meter os pés pelas mãos
+metralhar
+miar
+migrar
+mijar
+mimar
+minerar
+ministrar
+minuciosamente
+mistificar por pilhéria
+mobiliar
+moderar
+modernizar
+modificar-se
+molhar com líquido
+monitorar
+monopolizar
+montar a cavalo
+montear
+mortificar
+mostrar-se
+motivar
+mourejar
+mover-se em camera lenta
+mover_involuntariamente
+mover_reflexivamente
+movimentar
+movimentar-se
+mudar de nome
+mutuar
+nacionalizar
+namorar
+narcotizar
+nascer
+naufragar
+navegar por
+negociar
+nevar
+niquelar
+nobilitar
+noticiar por despacho
+numerar
+numerar as páginas
+não gostar
+objectar
+obliterar
+obnubilar
+obscurecer
+obsedar
+obsediar
+obter rapidamente
+obviar
+ocasionar
+ocluir
+oficializar
+ofuscar
+olhar de relance
+olhar de soslaio
+olhar fixo
+ondear
+ondular
+opalescer
+opinar
+opiniar
+opor
+opor-se
+oprimir
+optimizar
+orbitar
+orgulhar-se
+originar
+originar-se
+ornar
+orvalhar
+ousar
+ousar-se
+ouvir dizer
+oxidar-se
+oxigenar
+pactuar
+pagar adiantadamente
+pagar antecipadamente
+paginar
+pairar
+palestrar
+paliar
+palpar
+palpitar
+papaguear
+papear
+paquerar mulheres
+parafrasear
+paralizar
+parecer-se com
+participar
+participar em
+particularizar
+partir o coração (de alguém)
+partir-se
+pasmar
+passar a ferro
+passar a marcha
+passar ao lado
+passar de largo
+passar em revista
+passar gradativamente a
+passar manteiga em
+passar quitação
+passar_por_cima
+pasteurizar
+patejar
+patentear
+patrulhar
+pausar
+pavimentar
+pavonear
+pavonear-se
+pedalar
+pedir boleia
+pedir carona
+pedir emprestado
+pedir esmolas
+pegar com pinça
+pegar de súbito
+pegar de volta
+pegar_leve
+pelar
+pelejar
+penalizar
+pender
+penhorar
+penitenciar
+pensar duas vezes
+pensar em
+pensar mais que
+pensar sobre
+pentear
+perambular
+percolar
+percorrer
+perder peso
+perder_peso
+perfumar
+perguntar-se
+perjurar
+permear
+perpetuar
+persistir
+perverter
+pescar
+pescar caranguejo
+pinar
+pincelar
+piratear
+pisar com força
+piscar de olhos
+piscar o olho
+piscar os olhos
+plagiar
+planar
+planificar
+plasmar
+pleitear
+policiar
+politizar
+poluir
+polvilhar
+pontificar
+pontuar
+popularizar
+por
+pormenorizar
+portar-se bem
+posicionar-se
+pospor
+postar
+postular
+potencializar
+povoar-se
+praguejar
+precaver
+precaver-se
+precipitação
+predestinar
+predicar
+predispor
+predominar
+preguear
+prender em uma gaiola
+prender por drobradiça
+prensar
+prenunciar
+preparar feno
+prescindir
+prescrever
+presidir
+pressagiar
+pressentir
+prestar a atenção
+prestar atenção
+prestidigitar
+prevalecer
+prezar
+primar
+priorizar
+privilegiar
+proceder
+profanar
+projectar
+projectar-se
+proliferar
+prolongar-se
+propagandear
+propiciar
+propor-se
+propulsionar
+prosperar
+prostar
+prostituir
+protelar
+provar a culpa
+prover de armas
+providenciar
+prurir
+pré-conceber
+publicar-se
+pugnar
+pulicar
+pulinhar
+pulsar
+pulverizar
+puncionar
+punheta
+punir
+puxar descarga
+puxar_bruscamente
+pôr manteiga
+pôr no lugar de
+pôr um índice
+pôr_em_conserva
+pôr_no_mundo
+quadruplicar
+quarentenar
+quebrar-se
+queixar
+querelar
+querer_dizer
+quintuplicar
+qüestionar
+rabiscar
+rachar
+raciocínar
+ralar
+ralhar
+ramificar-se
+ranquiar
+rarefazer
+rascar
+rascunhar
+rastejar
+rastejar-se
+ratificar
+re-enfatizar
+re-equipar
+re-examinar
+re-explorar
+reabrir
+reafirmar
+reafirmar-se
+reagrupar
+realinhar
+realocar
+reaparecer
+reaprender
+reapropriar
+rearranjar
+reassumir
+reativar
+reavaliar
+reaver
+rebaptizar
+rebatizar
+rebelar
+rebelar-se
+rebentar
+rebocar
+recair
+recalcitrar
+recalcular
+recamar
+recapitular
+recapturar
+recear
+receitar
+recepcionar
+rechear
+reciprocar
+reclassificar
+recobrir
+reconciliar
+reconfirmar
+reconfortar
+reconquistar
+reconsiderar
+reconstituir
+recontar
+reconverter
+recordar-se
+recrear
+rectificar
+recuo
+redefinir
+redescobrir
+redesenhar
+redeterminar
+redimensionar
+redirecionar
+redistribuir
+redundar
+reduzir a cinzas
+reduzir_peso
+reeditar
+reeleger
+reencarnar
+reencontrar
+reentrar
+reequipar
+reescrever
+reexaminar
+referir-se
+refinanciar
+refletir fortemente
+reformular
+refrear
+refrear-se
+refugiar
+regalar
+regojizar
+regozijar-se
+regrar
+regredir
+reificar
+reignitar
+reincidir
+reincorporar
+reiniciar
+reino
+reinstalar
+reintegrar
+reinventar
+relaxar
+reler
+relinchar
+relutar
+reluzir
+remar
+remarcar
+remendar
+remir
+remoer
+remover indesejáveis
+remunerar
+render
+rendição
+renegar
+reordenar
+reorientar
+repartir
+repassar
+repatriar
+repensar
+repercutir
+replicar
+repor
+reposicionar
+repreensão
+represar
+reptar
+repulsar
+requisitar
+rescindir
+residir
+resignar-se
+respeitar
+respigar
+respirar ruidosamente
+resplandecer
+responder que sim
+ressaltar
+ressarcir
+ressecar
+ressonar
+ressurgir
+restar
+restituir
+resvalar
+retardar
+retinir
+retomar
+retransmitir
+retratar
+retribuir
+retroceder
+retrucar
+reunir-se
+reusar
+reutilizar
+reverberar
+reverenciar
+revirar
+revisar
+revistar
+rezar
+ribombar
+ricochetear
+rima
+rir
+robustecer
+rocar
+rodear
+rodopiar
+romantizar
+rosnar
+rotacionar
+roupa formal
+ruborizar
+ruir
+ruminar
+saber de cor
+saborear
+sabotar
+saculejar
+safar
+safar-se
+saia daqui
+sair a toda
+sair apressado
+sair de cena
+sair do armário
+sair fora
+sair pela culatra
+sair à luz
+saldar
+salientar
+salmo
+salpicar
+salta
+saltar à vista
+saltear
+saltitar
+salvaguardar
+sambar
+sanar
+sancionar
+sangrar
+santificar
+sardas
+satifazer
+saturar
+se acovardar
+se aposentar
+se apropriar
+se cruzar
+se curvar
+se jogar
+se levantar
+se moldar
+se parece
+se_movimentando
+secundar
+sediar
+segar
+segmentar
+segregar
+seguir-se
+sensibilizar
+sente-se
+sentenciar
+sentir saudades
+sentir-se
+separar em sílabas
+separar-se
+ser bem sucedido
+ser empurrado
+ser igual a
+ser rico
+ser suficiente
+ser testemunha
+serenar
+serpear
+serrar
+simbolizar
+simpatizar
+simplificar
+sindicar
+sintonizar
+sitiar
+sobreaquecer
+sobrecarregar
+sobrescrever
+sobrepor-se
+sobrepujar
+sobrescrever
+sobressair
+sobressaltar
+sobrevir
+socar
+sodomizar
+soldar
+solenizar
+soletrar
+solucionar
+soluçar
+sonambular
+sondar
+soprar levemente
+sortear
+sorver
+sospesar
+sossegar
+sovar
+soçobrar
+suar
+subcontratar
+subdividir
+subornar
+subsistir
+subsumir
+subtrair
+sufocar
+sugestionar
+sujeitar
+superestimar
+superproteger
+supervalorizar
+supervisar
+suplantar
+supliciar
+supurar
+surfar
+surpreender-se
+surrupiar
+suscitar
+suturar
+tabular
+tanger
+tardar
+tatear
+tatuar
+telefonar
+telegrafar
+teleportar
+teletransportar
+tender a
+teologizar
+ter brisa
+ter cuidado
+ter filho
+ter medo de
+ter  gosto de
+ter preferência
+ter prioridade
+ter sede
+ter tempestade
+tergiversar
+testar
+testemunhar
+tilintar
+tinir
+tipificar
+tiranizar
+tirar as digitais
+tirar cara ou coroa
+tirar férias
+tirar o véu
+tirar uma soneca
+tirar_uma_soneca
+titilar
+titular
+tomar a serviço
+tomar conta
+tomar cuidado
+tomar emprestado
+tomar por empréstimo
+tombar
+torcer-se
+torpedear
+torrar
+tortuar
+tosar
+tosquiar
+trabalhar como aprendiz
+trabalhar mal
+traficar
+tragar
+tramar
+tramitar
+tranportar
+transbordar
+transcorrer
+transcrever
+transformar-se
+transgredir
+transigir
+transliterar
+transmigrar
+transmudar
+transmutar
+transpor
+traquinar
+trasladar
+traspassar
+tratar erradamente
+trautear
+trazer de volta
+tremeluzir
+tresandar
+trespassar
+triangular
+tributar
+tricotar
+trilar
+trilhar
+trincar
+trinchar
+triplicar
+tripular
+triturar
+trombetear
+tropicar
+trovejar
+trunfar
+tutelar
+ultracentrifugar
+ulular
+umeceder
+umectar
+umedecer
+umidificar
+unir-se
+urbanizar
+urdir
+urinar
+urrar
+usar erradamente
+vacinar
+vadear
+vadiar
+vagabundear
+vaguear
+vaiar
+valer a pena
+valsar
+vandalizar
+vangloriar
+varrer a sua testada
+vassourar
+velar
+velejar
+vendar
+vender a varejo
+ventar forte
+ventar fortemente
+ver de relance
+veranear
+vergastar
+versar
+versejar
+vesguear
+vestir-se
+vetar
+vexar
+viciar
+vidrar
+vigiar
+vigorar
+vingar
+vir de
+vir_ao_mundo
+virar de quilha
+virar-se
+virar_do_avesso
+visar
+visionar
+vislumbrar
+vitimar
+vocalizar
+voltar atrás
+voltar-se
+voltear
+volver
+vulnerar
+xeretar
+xerocar
+xingar
+zelar
+zerar
+ziguezaguear
+zunir
+zurrar
