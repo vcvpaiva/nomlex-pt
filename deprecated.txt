@@ -10733,29 +10733,3 @@ work/00575741-n-1 worker/09767197-n-3 worker/02207449-n-1
 	writer/10794014-n-1: write/01698271-v-1 write/01744611-v-2
 	writer/10801291-n-1: write/01031966-v-1 write/01691057-v-1
 write/00993014-v-1 write/01007027-v-1
-
-Jump to Line
-Go
-
-  * Status <https://status.github.com/>
-  * API <https://developer.github.com/>
-  * Training <https://training.github.com/>
-  * Shop <https://shop.github.com/>
-  * Blog <https://github.com/blog>
-  * About <https://github.com/about>
-  * Pricing <https://github.com/pricing>
-
-<https://github.com/>
-
-  * © 2016 GitHub, Inc.
-  * Terms <https://github.com/site/terms>
-  * Privacy <https://github.com/site/privacy>
-  * Security <https://github.com/security>
-  * Contact <https://github.com/contact>
-  * Help <https://help.github.com/>
-
-Something went wrong with that request. Please try again.
-You signed in with another tab or window. Reload to refresh your
-session. You signed out in another tab or window. Reload to refresh your
-session.
-
